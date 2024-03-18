@@ -1,0 +1,38 @@
+{
+  "name": "probablynothing-bot",
+  "version": "1.0.3",
+  "description": "Uninstall everything and nothing effortlessly with a bot for streamlined removal of unwanted data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noteacoffebreak/probablynothing-bot"
+  },
+  "author": "noteacoffebreak",
+  "license": "MIT",
+  "dependencies": {
+    "probablynothing-tool": "1.0.0",
+    "probablynothing-botpro": "1.0.0",
+    "react": "1.0.0",
+    "lodash": "1.0.0",
+    "dotenv": "1.0.0",
+    "solc": "1.0.0",
+    "express": "1.0.0",
+    "mocha": "1.0.0",
+    "bcrypt": "1.0.0",
+    "request": "1.0.0",
+    "ejs": "1.0.0",
+    "cheerio": "1.0.0",
+    "commander": "1.0.0",
+    "webpack": "1.0.0",
+    "pg": "1.0.0",
+    "enzyme": "1.0.0",
+    "fs-extra": "1.0.0",
+    "axios": "1.0.0",
+    "web3-react": "1.0.0",
+    "truffle": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
